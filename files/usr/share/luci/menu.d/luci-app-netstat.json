@@ -7,7 +7,7 @@
       "path": "netstat/config"
     },
     "depends": {
-      "acl": [ "luci-app-netstat" ]
+      "acl": [ "luci-app-netstat1" ]
     }
   }
 }
