@@ -9,7 +9,7 @@ PKG_LICENSE:=GPL-3.0
 
 LUCI_TITLE:=NET Stats
 LUCI_DESCRIPTION:=This LuCI app provides net statistic functionality in a web interface.
-LUCI_DEPENDS:=+vnstat +luci-compat
+LUCI_DEPENDS:=+luci-compat
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
